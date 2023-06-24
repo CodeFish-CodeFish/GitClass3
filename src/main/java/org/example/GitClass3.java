@@ -1,2 +1,4 @@
-package org.example;public class GitClass3 {
+package org.example;
+
+public class GitClass3 {
 }
