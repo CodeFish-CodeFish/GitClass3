@@ -5,5 +5,6 @@ public class GitClass3 {
         System.out.println("NewBranch");
         //this is change from branch secondBranch
         System.out.println("this change from master");
+        //this change from branch3
     }
 }
