@@ -7,6 +7,6 @@ public class GitClass3 {
         System.out.println("this change from master");
         //this change from branch3
     //this change from master after merging remote branches
-
+        System.out.println("this is modified");
     }
 }
