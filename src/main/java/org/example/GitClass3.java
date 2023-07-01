@@ -6,5 +6,7 @@ public class GitClass3 {
         //this is change from branch secondBranch
         System.out.println("this change from master");
         //this change from branch3
+    //this change from master after merging remote branches
+
     }
 }
